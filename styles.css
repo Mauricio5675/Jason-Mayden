@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://img.buzzfeed.com/buzzfeed-static/complex/images/n4uc9zxolsibo2gp1pwi/jason-mayden-black-history-lead.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: grey;
+
+}
+h1{
+    color: white;
+    
+}
+p{
+    text-align: left;
+    color: white;
+    font-size: x-large;
+}
+table{
+    color: white;
+    font-size: x-large;
+    border-color: black;
+}
